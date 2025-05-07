@@ -10,4 +10,4 @@ class FitnessServerApiApplicationTests {
     void contextLoads() {
     }
 
-}
+} 
