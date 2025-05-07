@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
 import { Link, useNavigate } from "react-router-dom";
 import moment from 'moment';
-import girl from "../img/new.jpg"  
+import girl from "../img/new.jpg"   
 
 
 export default function Home() {
