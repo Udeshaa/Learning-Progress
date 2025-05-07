@@ -1,6 +1,7 @@
  
 
 
+
 export default function FooterCom() {
   return (
 
@@ -17,7 +18,7 @@ export default function FooterCom() {
               <h1 className="text-slate-900 text-lg font-serif whitespace-nowrap">AboutUs</h1>
               <hr className="w-[200px]" />
               <p className="text-slate-800">ABOUT US</p>
-              <p className="text-slate-800">OUR SERVICES</p>
+              <p className="text-slate-800">OUR SERVICES</p> 
               <p className="text-slate-800">PRIVACY POLICY (MOBILE)</p>
             </div>
 
