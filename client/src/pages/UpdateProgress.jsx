@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 
-import girl from "../img/girl2.jpg"
+import girl from "../img/edu1.jpg"
 
 
 export default function CreateSchedul() {
