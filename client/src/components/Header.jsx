@@ -9,7 +9,7 @@ export default function () {
     <div className="bg-gradient-to-r from-blue-700 to-white via-white">
       <div className=" flex justify-between items-center max-w-6xl mx-auto p-5">
         <Link to="/">
-          <h1 className="font-serif text-slate-700 text-3xl rounded-lg  ">Social</h1>
+          <h1 className="font-serif text-slate-700 text-3xl rounded-lg  ">Progress Update</h1>
         </Link>
         <ul className="flex gap-4">
 
