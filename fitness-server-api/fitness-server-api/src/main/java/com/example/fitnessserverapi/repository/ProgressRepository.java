@@ -10,4 +10,4 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 // This interface represents a repository for  entities. It extends MongoRepository, which provides basic CRUD operations for MongoDB.
 public interface ProgressRepository extends MongoRepository<Progress, String> {
     // No additional methods are defined here because MongoRepository already provides methods for basic CRUD operations.
-}
+} 
