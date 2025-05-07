@@ -34,8 +34,8 @@ export default function () {
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUA61gIlA_YnqrwGhxKIffyTO-f8B1V44Y9ypZDKV2pQ&s"  alt=""  className='w-10 h-10 object-cover mt-2 rounded-full'/>
        
             <div>
-                <h1 className='text-gray-700 font-medium mt-2'>rashmi3</h1>
-            <h1 className='text-slate-600 font-medium text-sm'>rashmi3@gmail.com</h1> 
+                <h1 className='text-gray-700 font-medium mt-2'>Udesha Rashmi</h1>
+            <h1 className='text-slate-600 font-medium text-sm'>rashmin@gmail.com</h1> 
             </div>
 
 
