@@ -13,7 +13,7 @@ import com.example.fitnessserverapi.repository.ProgressRepository;
 @RestController
 @CrossOrigin(origins = "http://localhost:5173",methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE}, allowedHeaders = "*")
 @RequestMapping("/api")
-public class ProgressController { 
+public class ProgressController {  
 
     //
     private final ProgressRepository progressRepository;
