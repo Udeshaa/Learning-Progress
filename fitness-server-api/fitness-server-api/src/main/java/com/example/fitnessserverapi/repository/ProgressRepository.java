@@ -11,3 +11,4 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 public interface ProgressRepository extends MongoRepository<Progress, String> {
     // No additional methods are defined here because MongoRepository already provides methods for basic CRUD operations.
 } 
+
