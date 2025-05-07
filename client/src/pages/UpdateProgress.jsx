@@ -11,7 +11,7 @@ export default function CreateSchedul() {
         description: "",
         date: "",
         state: [],
-      });
+      }); 
   
       const { workId } = useParams();
   const [publishError, setPublishError] = useState(null);
