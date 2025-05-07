@@ -1,4 +1,4 @@
-package com.example.fitnessserverapi.model;
+package com.example.fitnessserverapi.model; 
 
 import java.util.ArrayList;
 import java.util.Date;
